@@ -1,3 +1,3 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning vuejs
+- 🌱 I’m currently learning React
