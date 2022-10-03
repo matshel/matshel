@@ -1,3 +1,3 @@
 ### Hello! I am called Mats👋
 
-- 🌱 I'm a fron-end developer from Norway.
+- 🌱 I'm a front-end developer from Norway.
